@@ -249,3 +249,5 @@ If you find this curated list helpful, consider supporting the project:
 **Made for remote software engineers, open-source maintainers, educators, DevOps teams, and cloud IDE builders.**  
 
 Let's make collaborative coding and cloud development environments more open, fast, and accessible from anywhere.
+# Awesome-Collaborative-Coding-Cloud-Ides
+
