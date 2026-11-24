@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-  <a href="https://github.com/ishandutta2007/Awesome-Collaborative-Coding-Cloud-Ides/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Collaborative-Coding-Cloud-Ides?style=social" alt="GitHub Stars" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Collaborative-Coding-Cloud-Ides/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Collaborative-Coding-Cloud-Ides?style=social" alt="GitHub_Stars" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Collaborative-Coding-Cloud-Ides/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Collaborative-Coding-Cloud-Ides?style=social" alt="GitHub Forks" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Collaborative-Coding-Cloud-Ides/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-CC0_1.0-blue.svg?style=flat-square" alt="License" /></a>
   <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
@@ -63,69 +63,69 @@ The following SaaS and managed hosted platforms provide instant, browser-accessi
 
 ## 💻 Open-Source GitHub Projects & Self-Hosted CDEs
 
-Every open-source repository below is actively maintained, enables collaborative or cloud-based coding, and displays live star metrics. The list is sorted in descending order by **GitHub Star Count**.
+Every open-source repository below is actively maintained, enables collaborative or cloud-based coding, and displays live star metrics. The list is sorted in descending order by **GitHub Stars_Count**.
 
-- **[Zed](https://github.com/zed-industries/zed)** [![GitHub stars](https://img.shields.io/github/stars/zed-industries/zed?style=social&color=white)](https://github.com/zed-industries/zed/stargazers)  
+- **[Zed](https://github.com/zed-industries/zed)** [![GitHub_Stars](https://img.shields.io/github/stars/zed-industries/zed?style=social&color=white)](https://github.com/zed-industries/zed/stargazers)  
   High-performance, GPU-accelerated code editor written in Rust with built-in real-time CRDT multiplayer editing, channels, integrated voice communication, and remote server connectivity.
 
-- **[Code-Server](https://github.com/coder/code-server)** [![GitHub stars](https://img.shields.io/github/stars/coder/code-server?style=social&color=white)](https://github.com/coder/code-server/stargazers)  
+- **[Code-Server](https://github.com/coder/code-server)** [![GitHub_Stars](https://img.shields.io/github/stars/coder/code-server?style=social&color=white)](https://github.com/coder/code-server/stargazers)  
   Runs full VS Code on any remote Linux machine, cloud VPS, or Docker container and renders it directly through any modern web browser with full terminal and extension support.
 
-- **[pingdotgg/t3code](https://github.com/pingdotgg/t3code)** [![GitHub stars](https://img.shields.io/github/stars/pingdotgg/t3code?style=social&color=white)](https://github.com/pingdotgg/t3code/stargazers)  
+- **[pingdotgg/t3code](https://github.com/pingdotgg/t3code)** [![GitHub_Stars](https://img.shields.io/github/stars/pingdotgg/t3code?style=social&color=white)](https://github.com/pingdotgg/t3code/stargazers)  
   Modern open-source AI-native and collaborative development environment designed by Theo Browne (t3.gg) for controlling coding agents (Claude Code, Codex) from any browser or remote device.
 
-- **[Daytona](https://github.com/daytonaio/daytona)** [![GitHub stars](https://img.shields.io/github/stars/daytonaio/daytona?style=social&color=white)](https://github.com/daytonaio/daytona/stargazers)  
+- **[Daytona](https://github.com/daytonaio/daytona)** [![GitHub_Stars](https://img.shields.io/github/stars/daytonaio/daytona?style=social&color=white)](https://github.com/daytonaio/daytona/stargazers)  
   Open-source Development Environment Manager (DEM) and elastic sandbox infrastructure for launching standardized developer workspaces and AI agent sandboxes with a single CLI command.
 
-- **[Gitea](https://github.com/go-gitea/gitea)** [![GitHub stars](https://img.shields.io/github/stars/go-gitea/gitea?style=social&color=white)](https://github.com/go-gitea/gitea/stargazers)  
+- **[Gitea](https://github.com/go-gitea/gitea)** [![GitHub_Stars](https://img.shields.io/github/stars/go-gitea/gitea?style=social&color=white)](https://github.com/go-gitea/gitea/stargazers)  
   Painless, lightweight self-hosted all-in-one Git service and DevOps platform built in Go; pairs seamlessly with Code-Server and DevPod to create entirely private self-hosted cloud dev platforms.
 
-- **[Monaco Editor](https://github.com/microsoft/monaco-editor)** [![GitHub stars](https://img.shields.io/github/stars/microsoft/monaco-editor?style=social&color=white)](https://github.com/microsoft/monaco-editor/stargazers)  
+- **[Monaco Editor](https://github.com/microsoft/monaco-editor)** [![GitHub_Stars](https://img.shields.io/github/stars/microsoft/monaco-editor?style=social&color=white)](https://github.com/microsoft/monaco-editor/stargazers)  
   The browser-based code editor that powers VS Code; features IntelliSense, rich code formatting, syntax highlighting, diff viewers, and TypeScript/JavaScript language servers.
 
-- **[Lapce](https://github.com/lapce/lapce)** [![GitHub stars](https://img.shields.io/github/stars/lapce/lapce?style=social&color=white)](https://github.com/lapce/lapce/stargazers)  
+- **[Lapce](https://github.com/lapce/lapce)** [![GitHub_Stars](https://img.shields.io/github/stars/lapce/lapce?style=social&color=white)](https://github.com/lapce/lapce/stargazers)  
   Lightning-fast open-source code editor written in Rust with GPU acceleration (Druid UI), native modal editing, remote development over SSH, and built-in LSP intelligence.
 
-- **[Marimo](https://github.com/marimo-team/marimo)** [![GitHub stars](https://img.shields.io/github/stars/marimo-team/marimo?style=social&color=white)](https://github.com/marimo-team/marimo/stargazers)  
+- **[Marimo](https://github.com/marimo-team/marimo)** [![GitHub_Stars](https://img.shields.io/github/stars/marimo-team/marimo?style=social&color=white)](https://github.com/marimo-team/marimo/stargazers)  
   Next-generation reactive Python notebook that runs reproducible experiments, interactive web apps, and collaborative computational workflows stored as clean, version-controllable pure Python scripts.
 
-- **[Yjs](https://github.com/yjs/yjs)** [![GitHub stars](https://img.shields.io/github/stars/yjs/yjs?style=social&color=white)](https://github.com/yjs/yjs/stargazers)  
+- **[Yjs](https://github.com/yjs/yjs)** [![GitHub_Stars](https://img.shields.io/github/stars/yjs/yjs?style=social&color=white)](https://github.com/yjs/yjs/stargazers)  
   High-performance Conflict-free Replicated Data Type (CRDT) implementation for building real-time multiplayer collaborative applications, live shared code editors, and P2P synchronization.
 
-- **[Eclipse Theia](https://github.com/eclipse-theia/theia)** [![GitHub stars](https://img.shields.io/github/stars/eclipse-theia/theia?style=social&color=white)](https://github.com/eclipse-theia/theia/stargazers)  
+- **[Eclipse Theia](https://github.com/eclipse-theia/theia)** [![GitHub_Stars](https://img.shields.io/github/stars/eclipse-theia/theia?style=social&color=white)](https://github.com/eclipse-theia/theia/stargazers)  
   Extensible open-source platform for creating customized cloud & desktop IDEs and developer tools in TypeScript, supporting VS Code extensions and multi-tenant architectures.
 
-- **[Coder](https://github.com/coder/coder)** [![GitHub stars](https://img.shields.io/github/stars/coder/coder?style=social&color=white)](https://github.com/coder/coder/stargazers)  
+- **[Coder](https://github.com/coder/coder)** [![GitHub_Stars](https://img.shields.io/github/stars/coder/coder?style=social&color=white)](https://github.com/coder/coder/stargazers)  
   Enterprise open-source Cloud Development Environment (CDE) engine provisioning remote development workspaces via Terraform onto Kubernetes, Docker, AWS, Azure, and bare-metal servers.
 
-- **[DevPod](https://github.com/loft-sh/devpod)** [![GitHub stars](https://img.shields.io/github/stars/loft-sh/devpod?style=social&color=white)](https://github.com/loft-sh/devpod/stargazers)  
+- **[DevPod](https://github.com/loft-sh/devpod)** [![GitHub_Stars](https://img.shields.io/github/stars/loft-sh/devpod?style=social&color=white)](https://github.com/loft-sh/devpod/stargazers)  
   Client-only, unopinionated open-source tool that turns any `devcontainer.json` repository into a reproducible remote developer workspace over SSH, Docker, or Kubernetes without a centralized daemon.
 
-- **[Pyodide](https://github.com/pyodide/pyodide)** [![GitHub stars](https://img.shields.io/github/stars/pyodide/pyodide?style=social&color=white)](https://github.com/pyodide/pyodide/stargazers)  
+- **[Pyodide](https://github.com/pyodide/pyodide)** [![GitHub_Stars](https://img.shields.io/github/stars/pyodide/pyodide?style=social&color=white)](https://github.com/pyodide/pyodide/stargazers)  
   CPython ported to WebAssembly/Emscripten, enabling in-browser execution of scientific Python, NumPy, Pandas, and Matplotlib inside collaborative web sandboxes without remote servers.
 
-- **[JupyterHub](https://github.com/jupyterhub/jupyterhub)** [![GitHub stars](https://img.shields.io/github/stars/jupyterhub/jupyterhub?style=social&color=white)](https://github.com/jupyterhub/jupyterhub/stargazers)  
+- **[JupyterHub](https://github.com/jupyterhub/jupyterhub)** [![GitHub_Stars](https://img.shields.io/github/stars/jupyterhub/jupyterhub?style=social&color=white)](https://github.com/jupyterhub/jupyterhub/stargazers)  
   Multi-user server that connects Jupyter notebooks to centralized cloud compute clusters, Kubernetes (Zero to JupyterHub), and enterprise LDAP/OAuth authentication for research and data teams.
 
-- **[CodeMirror](https://github.com/codemirror/dev)** [![GitHub stars](https://img.shields.io/github/stars/codemirror/dev?style=social&color=white)](https://github.com/codemirror/dev/stargazers)  
+- **[CodeMirror](https://github.com/codemirror/dev)** [![GitHub_Stars](https://img.shields.io/github/stars/codemirror/dev?style=social&color=white)](https://github.com/codemirror/dev/stargazers)  
   Versatile, extensible in-browser text and code editor library implemented in TypeScript, providing a modular architectural base for web-based collaborative IDEs and playgrounds.
 
-- **[Eclipse Che](https://github.com/eclipse-che/che)** [![GitHub stars](https://img.shields.io/github/stars/eclipse-che/che?style=social&color=white)](https://github.com/eclipse-che/che/stargazers)  
+- **[Eclipse Che](https://github.com/eclipse-che/che)** [![GitHub_Stars](https://img.shields.io/github/stars/eclipse-che/che?style=social&color=white)](https://github.com/eclipse-che/che/stargazers)  
   Kubernetes-native developer workspace server and enterprise cloud IDE using Red Hat OpenShift and Eclipse Devfiles for automated, containerized workspace provisioning.
 
-- **[Sandpack](https://github.com/codesandbox/sandpack)** [![GitHub stars](https://img.shields.io/github/stars/codesandbox/sandpack?style=social&color=white)](https://github.com/codesandbox/sandpack/stargazers)  
+- **[Sandpack](https://github.com/codesandbox/sandpack)** [![GitHub_Stars](https://img.shields.io/github/stars/codesandbox/sandpack?style=social&color=white)](https://github.com/codesandbox/sandpack/stargazers)  
   Component toolkit created by CodeSandbox for embedding interactive, live-running browser code editors and in-browser bundlers directly into documentation and interactive learning sites.
 
-- **[OpenVSCode Server](https://github.com/gitpod-io/openvscode-server)** [![GitHub stars](https://img.shields.io/github/stars/gitpod-io/openvscode-server?style=social&color=white)](https://github.com/gitpod-io/openvscode-server/stargazers)  
+- **[OpenVSCode Server](https://github.com/gitpod-io/openvscode-server)** [![GitHub_Stars](https://img.shields.io/github/stars/gitpod-io/openvscode-server?style=social&color=white)](https://github.com/gitpod-io/openvscode-server/stargazers)  
   Distribution maintained by Gitpod that compiles upstream Microsoft VS Code to run in a web browser from any Linux/macOS host with minimal patching.
 
-- **[Judge0](https://github.com/judge0/judge0)** [![GitHub stars](https://img.shields.io/github/stars/judge0/judge0?style=social&color=white)](https://github.com/judge0/judge0/stargazers)  
+- **[Judge0](https://github.com/judge0/judge0)** [![GitHub_Stars](https://img.shields.io/github/stars/judge0/judge0?style=social&color=white)](https://github.com/judge0/judge0/stargazers)  
   Robust, scalable, sandboxed open-source online code execution system supporting 60+ programming languages; commonly used to power coding interview platforms and browser IDE runners.
 
-- **[Piston](https://github.com/engineer-man/piston)** [![GitHub stars](https://img.shields.io/github/stars/engineer-man/piston?style=social&color=white)](https://github.com/engineer-man/piston/stargazers)  
+- **[Piston](https://github.com/engineer-man/piston)** [![GitHub_Stars](https://img.shields.io/github/stars/engineer-man/piston?style=social&color=white)](https://github.com/engineer-man/piston/stargazers)  
   High-performance code execution engine in Node.js and C++ with isolated, pre-built packages for dozens of languages; optimized for running discord bots and collaborative web playgrounds.
 
-- **[Runno](https://github.com/taybenlor/runno)** [![GitHub stars](https://img.shields.io/github/stars/taybenlor/runno?style=social&color=white)](https://github.com/taybenlor/runno/stargazers)  
+- **[Runno](https://github.com/taybenlor/runno)** [![GitHub_Stars](https://img.shields.io/github/stars/taybenlor/runno?style=social&color=white)](https://github.com/taybenlor/runno/stargazers)  
   Sandboxed WebAssembly (WASI) runtime and web component collection that allows safe execution of Python, Ruby, SQLite, and C programs directly inside the client's browser.
 
 ---
@@ -171,7 +171,7 @@ Contributions are welcome and encouraged! To submit a new tool or suggest improv
 2. 🌿 **Create a new branch** (`git checkout -b add-my-cloud-ide`).
 3. 📝 **Add or update the entry** in `README.md`:
    - For SaaS products: Include the platform name, official URL, pricing tier details, free tier limits, and estimated company valuation/revenue scale.
-   - For Open-Source projects: Include the repository name, GitHub link, star badge (`style=social&color=white`), and an informative 1–2 sentence description.
+   - For Open-Source projects: Include the repository name, GitHub link, Stars_Badge (`style=social&color=white`), and an informative 1–2 sentence description.
 4. 🚀 **Commit your changes** (`git commit -m "feat: add NewTool to cloud IDE list"`).
 5. 📤 **Push to your branch** (`git push origin add-my-cloud-ide`).
 6. 📬 **Open a Pull Request** with a concise description of why the tool is a good fit.
@@ -211,3 +211,12 @@ If you find this curated ecosystem directory helpful for your development workfl
 <p align="center">
   <b>Built with ❤️ for remote developers, platform engineering teams, and cloud IDE innovators worldwide.</b>
 </p>
+
+## ⭐ Star History
+
+<a href="https://star-history.com/#ishandutta2007/Awesome-Collaborative-Coding-Cloud-Ides&Timeline" align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/ishandutta2007_Awesome-Collaborative-Coding-Cloud-Ides_growth.svg">
+    <img alt="Star History Chart" src="assets/ishandutta2007_Awesome-Collaborative-Coding-Cloud-Ides_growth.svg">
+  </picture>
+</a>
